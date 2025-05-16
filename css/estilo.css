@@ -1,0 +1,77 @@
+
+#containerPreto{
+    background-color:black ;
+    width: 500px;
+    height: 1000px;
+    float: left;
+}
+
+#containerBranco{
+    background-color: aqua;
+    width: 835px;
+    height: 1000px;
+    float: right;
+    color: black;
+}
+
+#fotoMinha{
+    width: 350px;
+    height: 550px;
+    border-radius:100px;
+    box-shadow: 0 0 15px aqua;
+    padding: 20px 0 0 15px;
+
+}
+h2{
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+p{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Linguas{
+    color: white;
+}
+
+#Contatos{
+    color: white;
+    margin: 0 0 0 30px;
+}
+
+#Experiencia{
+    color: black;
+    margin-left: 800px;
+}
+
+#Experiencia2{
+    color: black;
+    margin-left: 10px;
+}
+
+
+
+.formacaoAcademica{
+    color:black
+
+}
+
+.formacaoAcademica2{
+    color: black;
+    margin-left: 10px;
+}
+
+
+.cortexto{
+    color:black
+}
+
+.formacaoAcademica{
+    color: black;
+}
+
+#meuNome{
+    margin-left: 10px;
+}
